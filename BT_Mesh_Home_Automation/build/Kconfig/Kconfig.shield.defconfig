@@ -1,0 +1,3 @@
+osource "d:/workspace/nrfconnect/testing1/light_2_3/boards/arm/custom_home_automation/boards/shields/*/Kconfig.defconfig"
+osource "c:/users/hp/onedrive/desktop/freelancing/git_pushes/bluetooth_mesh/bt_mesh_home_automation/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v2.3.0/nrf/boards/shields/*/Kconfig.defconfig"
