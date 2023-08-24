@@ -1,0 +1,6 @@
+osource "d:/workspace/nrfconnect/testing1/light_2_3/boards/arm/custom_home_automation/boards/shields/*/Kconfig.shield"
+osource "d:/workspace/nrfconnect/testing1/light_2_3/boards/shields/*/Kconfig.shield"
+osource "d:/workspace/nrfconnect/testing1/light_switch_2_3/boards/shields/*/Kconfig.shield"
+osource "d:/workspace/nrfconnect/testing1/light_2_3_test/boards/shields/*/Kconfig.shield"
+osource "d:/workspace/nrfconnect/testing1/btmesh_home_automation_nrf52840/boards/shields/*/Kconfig.shield"
+osource "C:/ncs/v2.3.0/nrf/boards/shields/*/Kconfig.shield"
